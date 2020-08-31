@@ -1,2 +1,2 @@
 # crawler
- To scrape the product and product details of an ecommerce site every 24hours
+ To scrape about 3000 records of product and product details of an ecommerce site and save to csv file
